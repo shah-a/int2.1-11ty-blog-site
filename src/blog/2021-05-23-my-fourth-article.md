@@ -1,5 +1,12 @@
 ---
-...
+title: Article 4
+description: Awesome description
+author: Ali Shah
+date: 2021-05-23
+tags:
+  - post
+image: /assets/blog/article-4.jpg
+imageAlt: Awesome caption
 ---
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil, ex deleniti reprehenderit quia alias, veritatis dolorem nulla corporis sapiente eos magnam natus in omnis, reiciendis consequatur molestias voluptatum! Reprehenderit, natus.
 
