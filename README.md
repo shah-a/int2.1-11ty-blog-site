@@ -14,3 +14,4 @@
 
 - [Kevin Powell](https://www.youtube.com/kepowob) for tutorial
 - [Unsplash/Lorem Picsum](unsplash.it) for images
+- [Logoipsum](https://logoipsum.com/) for logo
